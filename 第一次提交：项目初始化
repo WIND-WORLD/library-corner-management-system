@@ -1,0 +1,5 @@
+touch README.md .gitignore
+mkdir docs
+git add .
+git commit -m "feat: 初始化项目结构与README"
+git push origin main
